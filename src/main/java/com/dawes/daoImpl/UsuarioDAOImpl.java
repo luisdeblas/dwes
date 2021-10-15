@@ -35,7 +35,6 @@ public class UsuarioDAOImpl implements UsuarioDAO {
 	}
 
 	public int modificar(UsuarioVO usuario) {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
